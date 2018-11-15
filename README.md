@@ -1,0 +1,2 @@
+# IPSolutions-AmazonAdaptor
+IPSolutions-AmazonAdaptor
